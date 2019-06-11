@@ -1,0 +1,15 @@
+Required packages:
+    numpy
+    os
+    spicy
+    copy
+
+To run IBM Model 1:
+    python IBM_Model_1.py
+
+To run IBM Model 2:
+    python IBM_Model_2.py
+
+Development files are in jupyter notebook:
+    IBM_Model_1.ipynb
+    IBM_model_2.ipynb
